@@ -26,7 +26,7 @@ public class TC001_LogInLogOut extends ProjectMethods{
 		.clickLogin()
 		.clickLogout();
 		
-		
+	//end of test case	
 		
 		
 		
